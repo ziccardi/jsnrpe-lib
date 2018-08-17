@@ -1,6 +1,6 @@
 {
   "name": "jnrpe",
-  "version": "1.0.0-alpha",
+  "version": "1.0.0-alpha.3",
   "description": "",
   "main": "lib/server.js",
   "scripts": {
@@ -8,8 +8,13 @@
     "start": "node lib/server.js"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Massimiliano Ziccardi <massimiliano.ziccardi@gmail.com>",
+  "keywords": ["nagios", "icinga", "monitoring", "remote", "nrpe"],
+  "license": "Apache License, Version 2.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ziccardi/jsnrpe.git"
+  },
   "dependencies": {
     "crc-32": "^1.2.0",
     "enum": "^2.5.0",
