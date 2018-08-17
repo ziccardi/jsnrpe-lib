@@ -1,5 +1,7 @@
 # Javascript Remote Nagios Plugin Executor
 
+Enables the remote execution of Nagios plugin.
+
 |                 | Project Info                                                     |
 | --------------- | ---------------------------------------------------------------- |
 | License:        | Apache License, Version 2.0                                      |
