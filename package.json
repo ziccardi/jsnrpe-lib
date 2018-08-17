@@ -1,11 +1,11 @@
 {
   "name": "jnrpe",
-  "version": "1.0.0",
+  "version": "1.0.0-alpha",
   "description": "",
   "main": "lib/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start": "node lib/server.js"
   },
   "keywords": [],
   "author": "",
