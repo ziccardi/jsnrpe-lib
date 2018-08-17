@@ -1,0 +1,26 @@
+= Javascript Remote Nagios Plugin Executor
+
+[width="60%",frame="topbot",options="header"]
+|======================
+|              |Project Info
+|License       |Apache License, Version 2.0
+|Build         |npm
+|Issue tracker |https://github.com/ziccardi/jsnrpe/issues[Github]
+|Mailing lists |https://groups.google.com/forum/#!forum/js-jnrpe[js-jnrpe-dev]
+|======================
+
+== License
+See link:./LICENSE[LICENSE file]
+
+== Questions?
+Join our https://groups.google.com/forum/#!forum/js-jnrpe[mailing list] for any questions or help!
+
+== Found a bug?
+If you found a bug please create a ticket for us on https://github.com/ziccardi/jsnrpe/issues[Github] with at least the following informations:
+
+* js-nrpe version you are running
+* the plugin you are trying to execute
+* the plugin package name and version
+* details on the received error
+* operating system name and version
+* steps to reproduce
