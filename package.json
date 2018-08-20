@@ -1,8 +1,8 @@
 {
-  "name": "jnrpe",
-  "version": "1.0.0-alpha.6",
+  "name": "jnrpe-lib",
+  "version": "1.0.0-alpha.1",
   "description": "",
-  "main": "./index.js",
+  "main": "./lib/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node lib/server.js"

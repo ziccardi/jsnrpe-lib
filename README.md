@@ -1,6 +1,6 @@
 # Javascript Remote Nagios Plugin Executor
 
-Enables the remote execution of Nagios plugin.
+This library implements the NRPE protocol so that NRPE query can be received and answered seamlessy.
 
 |                 | Project Info                                                     |
 | --------------- | ---------------------------------------------------------------- |
@@ -18,9 +18,9 @@ Join our [mailing list](https://groups.google.com/forum/#!forum/js-jnrpe) for an
 ## Found a bug?
 If you found a bug please create a ticket for us on [Github](https://github.com/ziccardi/jsnrpe/issues) with at least the following informations:
 
-* js-nrpe version you are running
-* the plugin you are trying to execute
-* the plugin package name and version
+* jsnrpe-lib version you are running
+* what you are trying to execute
 * details on the received error
 * operating system name and version
+* node version
 * steps to reproduce
