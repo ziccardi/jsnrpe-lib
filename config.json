@@ -1,9 +1,0 @@
-{
-    "server": {
-        "address": "127.0.0.1",
-        "port": 5667,
-        "plugins": "/Users/ziccardi/work/node/plugins"
-    },
-    "commands": {
-    }
-}

@@ -4,6 +4,7 @@
   "description": "",
   "main": "./lib/server.js",
   "scripts": {
+    "pretest": "eslint --ignore-path .gitignore .",
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node lib/server.js"
   },
@@ -26,5 +27,9 @@
     "js-plugins": "^1.0.0",
     "quote-unquote": "^1.0.0",
     "split-string": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^5.4.0",
+    "eslint-config-strongloop": "^2.1.0"
   }
 }

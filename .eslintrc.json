@@ -1,0 +1,8 @@
+{"extends": "strongloop", 
+"parserOptions": {
+   "ecmaVersion": 6
+ },
+ "rules" : {
+"max-len": ["error", { "code": 150 }]
+ }
+}
